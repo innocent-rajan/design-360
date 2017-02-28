@@ -239,7 +239,7 @@
 		background: inherit;
 		font-family: Geometria, Arial;
 		border: none;
-		border-bottom:1px solid #757575;
+		border-bottom:1px solid white;
 		color: rgba(255,255,255,1);
 		display: block;
 		outline: 0;
@@ -388,28 +388,28 @@
 	}
 
 	::-webkit-input-placeholder {
-		color: #949494 !important;
-		opacity: 1.0;
+		color: white !important;
+		opacity: 0.5;
 	}
 
 	:-moz-placeholder {
-		color: #949494 !important;
-		opacity: 1.0;
+		color: white !important;
+		opacity: 0.5;
 	}
 
 	::-moz-placeholder {
-		color: #949494 !important;
-		opacity: 1.0;
+		color: white !important;
+		opacity: 0.5;
 	}
 
 	:-ms-input-placeholder {
-		color: #949494 !important;
-		opacity: 1.0;
+		color: white !important;
+		opacity: 0.5;
 	}
 
 	.formerize-placeholder {
-		color: #949494 !important;
-		opacity: 1.0;
+		color: white !important;
+		opacity: 0.5;
 	}
 
 /* Box */
