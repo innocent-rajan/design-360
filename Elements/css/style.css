@@ -996,7 +996,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 5em 0 3em 0;
+		padding: 5em 0 0.5em 0;
 	}
 
 		.wrapper.style1 {
@@ -1013,7 +1013,7 @@
 		}
 
 		.wrapper.style3 {
-			background: #e0555a;
+			background: #13303E;
 			color: #d1f2f5;
 		}
 
