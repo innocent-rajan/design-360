@@ -1016,6 +1016,14 @@
 			background: #13303E;
 			color: #d1f2f5;
 		}
+		.wrapper.style4{
+			background: #fff;
+			color: #000;	
+		}
+		.wrapper.style4 img{
+			height: 250px;
+			width: auto;
+		}
 
 			.wrapper.style3 h1, .wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
 				color: #ffffff;
